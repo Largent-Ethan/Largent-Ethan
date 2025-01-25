@@ -3,7 +3,6 @@
 
 **Email**: [largent.ethan.a@gmail.com](mailto:largent.ethan.a@gmail.com)  
 **Portfolio**: [largent-ethan.github.io](https://largent-ethan.github.io)  
-**GitHub**: [github.com/Largent-Ethan](https://github.com/Largent-Ethan)  
 **LinkedIn**: [linkedin.com/in/largentethana](https://linkedin.com/in/largentethana)  
 
 ---
